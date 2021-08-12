@@ -13,12 +13,11 @@ This is one of three projects where you have to apply what you have learned abou
 
 ### Files used
 The files used to provide the data to be analyzed:
-- **ab_data.csv**
-- **countries.csv**
+- **201902-fordgobike-tripdata.csv**
 
-The file with the code for the project:
-- **Analyze_ab_test_results_notebook_2.html**
-- **Analyze_ab_test_results_notebook_2.ipynb**
+### The file with the code for the project:
+- **fordgobike-exploration.ipynb**
+- **fordgobike-exploration.slides.html**
 
 ### Credits
 This is the **Advanced Data Analysis track** course sponsored by [egFWD](https://egfwd.com/)  and [Udacity](https://www.udacity.com/)
